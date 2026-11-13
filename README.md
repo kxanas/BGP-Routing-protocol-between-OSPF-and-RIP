@@ -6,7 +6,7 @@ Inter-AS routing lab in Cisco Packet Tracer: OSPF (AS 100) and RIPv2 (AS 200) co
 This project connects two separate networks that run different routing protocols, using **BGP** as the link between them. It shows how routes are exchanged between different Autonomous Systems (AS) and how end devices in one network can reach devices in the other.
 
 ## Topology
-![Network Topology](screenshots/topology.png)
+![Network Topology](topology.png)
 
 ## Network Design
 
